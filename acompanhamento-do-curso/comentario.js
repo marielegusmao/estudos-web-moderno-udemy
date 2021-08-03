@@ -2,10 +2,20 @@
 console.log('passo #01');
 console.log('passo #02');
 console.log('passo #03');
+
 /*
-comentarizão
+comentariozão
 o
 k
 */
 
 //  {} difinição de blocos de codigo 
+
+/* 
+   var, let: criacao de variavel, diferencas: ainda nao sei
+   var identificador ; ou = valor;
+*/
+
+/* String (texto): sequencia de símbolos, printado exatamente da forma que foi declarado, 
+declarado entre '' ou ""
+*/
