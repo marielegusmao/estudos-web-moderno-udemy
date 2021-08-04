@@ -13,9 +13,13 @@ k
 
 /* 
    var, let: criacao de variavel, diferencas: ainda nao sei
-   var identificador ; ou = valor;
+   var identificador ; ou identificador = valor;
+   const: imutável
 */
 
-/* String (texto): sequencia de símbolos, printado exatamente da forma que foi declarado, 
+/* typeof:
+   String (texto): sequencia de símbolos, printado exatamente da forma que foi declarado, 
 declarado entre '' ou ""
+   Number
+   Boolean: true or false
 */
